@@ -1,0 +1,7 @@
+# This an example host file for ghosts(http://github.com/ddliu/ghosts)
+
+# localhost
+127.0.0.1	localhost
+
+192.168.1.100	google.com # google
+
